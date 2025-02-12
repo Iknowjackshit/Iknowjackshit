@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iknowjackshit
 - 👀 I’m interested in Home Automation and beyond.
-- 🌱 I’m currently learning Python. Getting HA and roi 5
+- 🌱 I’m currently learning Python. Getting HA and rpi 5
 - 💞️ I’m looking to collaborate on nothing. I need to learn from you.
 - 📫 How to reach me here.
 - 😄 Pronouns: bleep/blop/blort
